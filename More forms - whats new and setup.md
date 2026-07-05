@@ -101,6 +101,5 @@ After restarting Claude, try:
   into separate forms yet.
 - The positional anchors for the new schedules are tuned to standard IRS
   layouts; for vendor variants, the LLM engine is the fallback.
-- I couldn't run an automated test from my side (the build sandbox was out of
-  disk space), so please sanity-check the first few extractions of each new
+- Check the first few extractions of each new
   form type against the source PDF.
